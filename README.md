@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning DevOps Engineering <br>- 👯 I’m looking to collaborate on open source projects<br>- 💬 Ask me about anything<br>- 📫 How to reach me: ifis.reda@gmail.com
+<br>- 🌱 I’m currently learning DevOps Engineering <br>- 👯 I’m looking to collaborate on open source projects<br>- 💬 Ask me about anything<br>- 📫 How to reach me: ifis.reda@gmail.com
 
 
 ## 🌐 Socials:
